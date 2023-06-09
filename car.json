@@ -1,0 +1,22 @@
+{
+    "Car 1" : { "owner_name" : "Vasyl",
+    "car_mark" : "Renault",
+    "car_number" : "KA 3205 KC",
+    "year" : "2008"
+    },
+    "Car 2" : { "owner_name" : "Stepan",
+    "car_mark" : "Ford",
+    "car_number" : "BO 2773 EE",
+    "year" : "2016"
+    },
+    "Car 3" : { "owner_name" : "Ivan",
+    "car_mark" : "Honda",
+    "car_number" : "AI 7379 IK",
+    "year" : "1998"
+    },
+    "Car 4" : { "owner_name" : "Oleh",
+    "car_mark" : "Volvo",
+    "car_number" : "AI 4034 OM",
+    "year" : "2005"
+    }
+}
